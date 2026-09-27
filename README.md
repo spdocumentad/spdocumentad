@@ -1,14 +1,60 @@
 # Amit Das
-## Lead Software Engineer at [OpEzee](https://opezee.com) | [MAP](https://map-india.org)
 
-[LinkedIn](https://www.linkedin.com/in/spamit-das), [Facebook](https://facebook.com/spamit), [Instagram](https://instagram.com/spamit), [Twitter](https://twitter.com/spamitdas)
+**Lead Software Engineer** — [OpEzee](https://opezee.com) · [Techindeck Ventures](https://github.com/techindeck) · [MAP](https://map-india.org)
+Bangalore, India
 
-### About
+[LinkedIn](https://www.linkedin.com/in/spamit-das) · [X](https://twitter.com/spamitdas)
 
-I am an experienced software lead with expertise in a wide range of programming languages and technologies, including PHP, JavaScript, TypeScript, jQuery, Python, C, C++, C#, Java, HTML, Advance CSS, SCSS, ReactJS, AngularJS, Angular, NodeJS, Laravel, and Native Application development. In addition, I have experience developing Android applications and a strong understanding of data structures and algorithms.
+---
 
-My passion for technology extends beyond just software development - I also have experience with electrical wiring and have a deep interest in artificial intelligence. With a Bachelor's degree in Computer Applications and a focus on Computer Engineering from Mahatma Gandhi University, I am well-versed in the principles of software engineering and have a strong foundation in computer science.
+I build products end to end — the architecture, the code, and the parts nobody
+sees until they break. Most of my work sits where a web application meets real
+hardware: devices in the field, content that has to arrive on time, and systems
+that keep running when the network does not.
 
-I am highly proficient in versioning tools like Git and am familiar with cloud computing platforms like AWS and Google Cloud. As a software lead, I am comfortable working with teams to design and implement complex software systems, and have experience managing projects from conception to completion.
+I care about software that is honest about its own state. A screen that has
+lost its connection should say so, a failed sync should be findable, and a type
+should describe what the data actually is rather than what would be convenient.
 
-In summary, I am a well-rounded software lead with a diverse skill set and a passion for technology. My technical expertise, coupled with my strong leadership skills and project management experience, make me a valuable asset to any software development team.
+---
+
+## What I'm working on
+
+**Displai** — a digital signage platform for multi-site deployments.
+A Next.js control plane for content, scheduling and fleet management, paired
+with two Electron applications: one that runs on-site as the local controller,
+one that drives each screen. Synchronised multi-screen video walls over
+WebSockets with NTP-corrected playback, offline-first caching so a site keeps
+playing when the link drops, and per-location tenancy.
+
+**aisql-assistant** — natural-language database querying, Spring Boot with a
+local LLM. No data leaves the machine.
+
+**okf-chatbot** — a Python chatbot built on Google's Open Knowledge Framework.
+
+---
+
+## Tech I work in
+
+**Languages** — TypeScript · JavaScript · Java · Python · PHP · C# · C/C++
+
+**Front end** — React · Next.js · Angular · Tailwind CSS · SCSS
+
+**Back end** — Node.js · Spring Boot · Laravel · REST · WebSockets
+
+**Desktop & devices** — Electron · Android · offline-first sync · NTP time sync
+
+**Data** — MongoDB · MSSQL · SQLite
+
+**Cloud & infra** — AWS (S3, CloudFront) · Google Cloud · Nginx
+
+**Tooling** — Git · Turborepo · pnpm · Vite · ESLint
+
+---
+
+## Background
+
+Bachelor's in Computer Applications with a focus on Computer Engineering,
+Mahatma Gandhi University. Beyond software I work with electrical wiring and
+follow applied AI closely — the two meet more often than you would expect when
+the product has to run on someone else's hardware.
