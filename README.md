@@ -1,7 +1,6 @@
 # Amit Das
 
-**Lead Software Engineer** — [OpEzee](https://opezee.com) · [MAP](https://map-india.org)
-Bangalore, India
+**Lead Software Engineer** · Bangalore, India
 
 [LinkedIn](https://www.linkedin.com/in/spamit-das) · [X](https://twitter.com/spamitdas)
 
