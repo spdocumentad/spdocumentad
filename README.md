@@ -1,6 +1,6 @@
 # Amit Das
 
-**Lead Software Engineer** — [OpEzee](https://opezee.com) · [Techindeck Ventures](https://github.com/techindeck) · [MAP](https://map-india.org)
+**Lead Software Engineer** — [OpEzee](https://opezee.com) · [MAP](https://map-india.org)
 Bangalore, India
 
 [LinkedIn](https://www.linkedin.com/in/spamit-das) · [X](https://twitter.com/spamitdas)
@@ -18,19 +18,20 @@ should describe what the data actually is rather than what would be convenient.
 
 ---
 
-## What I'm working on
+## Recent work
 
-**Displai** — a digital signage platform for multi-site deployments.
-A Next.js control plane for content, scheduling and fleet management, paired
-with two Electron applications: one that runs on-site as the local controller,
-one that drives each screen. Synchronised multi-screen video walls over
-WebSockets with NTP-corrected playback, offline-first caching so a site keeps
-playing when the link drops, and per-location tenancy.
+**Multi-site digital signage.** A Next.js control plane for content, scheduling
+and fleet management, paired with two Electron applications — one acting as the
+on-site controller, one driving each display. Synchronised multi-screen video
+walls over WebSockets with NTP-corrected playback, offline-first caching so a
+site keeps running when the link drops, and per-location tenancy.
 
-**aisql-assistant** — natural-language database querying, Spring Boot with a
-local LLM. No data leaves the machine.
+**[aisql-assistant](https://github.com/spdocumentad/aisql-assistant)** —
+natural-language database querying, Spring Boot with a local LLM. No data
+leaves the machine.
 
-**okf-chatbot** — a Python chatbot built on Google's Open Knowledge Framework.
+**[okf-chatbot](https://github.com/spdocumentad/okf-chatbot)** — a Python
+chatbot built on Google's Open Knowledge Framework.
 
 ---
 
